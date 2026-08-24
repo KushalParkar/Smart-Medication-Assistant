@@ -176,7 +176,7 @@ cd smart-medication-assistant
 
 ## 👨‍💻 Developer
 
-**SKushal Parkar**  
+**Kushal Parkar**  
 ---
 
 ## 📜 License
